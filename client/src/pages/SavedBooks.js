@@ -10,7 +10,7 @@ import { REMOVE_BOOK } from "../utils/mutations";
 const SavedBooks = () => {
   // took off the use effect func and substitutes it useQuery to get the data
   const { loading, data } = useQuery(GET_ME);
-  const userData = data?.me || [];
+  const userData = data?.me || {savedBooks: []};
 
   const [removeBook] = useMutation(REMOVE_BOOK);
 
@@ -44,8 +44,8 @@ const SavedBooks = () => {
   }
 
   // get info from localStorage by the use data queries
-  const savedBookIds = userData.savedBooks.map((book) => book.bookId);
-  saveBookIds(savedBookIds);
+  // const savedBookIds = userData.savedBooks.map((book) => book.bookId);
+  // saveBookIds(savedBookIds);
 
   return (
     <>
