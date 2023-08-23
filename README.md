@@ -54,7 +54,7 @@ npm run develop
 
 ![image](https://github.com/ShivaTagh/Sh-Book-Search-Engine/assets/127795324/822dd549-811b-4c42-94e1-d1e04cd88658)
 
-![image](https://github.com/ShivaTagh/Sh-Book-Search-Engine/assets/127795324/8edddf05-6c1c-492a-a320-957b2956bf5f)
+![image](https://github.com/ShivaTagh/Sh-Book-Search-Engine/assets/127795324/33d20b74-3c79-4f27-a69b-53a164793a12)
 
 ![image](https://github.com/ShivaTagh/Sh-Book-Search-Engine/assets/127795324/4493eba5-dc50-477c-9e48-7f13ee89e071)
 
