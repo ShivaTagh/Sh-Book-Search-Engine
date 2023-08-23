@@ -42,7 +42,7 @@ npm run develop
 
 #### Heroku Deployment
 
-[Click me to see app!](https://book-engine-search-sh-2f1bdef08575.herokuapp.com/)
+[Click me to see app!](/https://book-engine-search-sh-2f1bdef08575.herokuapp.com/)
 
 
 #### App Screenshot
