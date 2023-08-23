@@ -16,6 +16,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "mongodb": "^5.8.0",
     "nodemon": "^3.0.1"
   }
 }
